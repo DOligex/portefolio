@@ -6,6 +6,7 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="assets/css/meteo.css">
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 	</head>
 	<body class="is-preload">
@@ -125,14 +126,20 @@
 								</article>
 								<article>
 									<header>
-										<span class="date"></span>
-										<h2><a href="#"><br />
+										<span class="date">Météo géolocalisée</span>
+										<h2><a href="#">DOligex Météo<br />
 										</a></h2>
 									</header>
-									<a href="#" class="image fit"><img src="#" alt="" /></a>
-									<ul class="actions special">
-										<li><a href="#" class=""></a></li>
-									</ul>
+									<h3 id="ville">paris</h3>
+              
+									<div id="temperature">
+									  <span id="temperature_label">
+										xx.x
+									  </span> °C
+									</div>
+									<div><a id="changer" class="button">Changer de ville</a></div>
+								  </div>
+									<li><a href="#" class="image fit"><img src="#" alt="" /></a></li>
 								</article>
 							</section>
 					</div>
@@ -173,8 +180,7 @@
 				<!-- Copyright -->
 					<div id="copyright">
 						<ul>
-							<li>&copy; olivier darbonville</li>
-							<li>V 1.1</li>
+							<li id="copyright"></li>
 						</ul>
 					</div>						
 				
@@ -188,6 +194,8 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+			<script src="assets/js/options.js"></script>
+			<script src="assets/js/meteo.js"></script>
 
 	</body>
 </html>
