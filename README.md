@@ -1,9 +1,9 @@
 <h3 align="center">Portefolio</h3>
 <h4> Technologies used</h4>
 <p align="left">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript logo" width="30" height="30"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5 logo" width="30" height="30"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3 logo" width="30" height="30"/> 
+<img src="https://raw.githubusercontent.com/DOligex/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript logo" width="30" height="30"/> 
+<img src="https://raw.githubusercontent.com/DOligex/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/html5/html5-original.svg" title="HTML5" alt="HTML5 logo" width="30" height="30"/> 
+<img src="https://raw.githubusercontent.com/DOligex/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original.svg" title="CSS3" alt="CSS3 logo" width="30" height="30"/> 
 </p>
 
 #### Source :
